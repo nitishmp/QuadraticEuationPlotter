@@ -308,6 +308,6 @@ class QuadEQPlot:
         triggered when the menu command 'About' is clicked
         Show an information dialog displaying your name on one line and id number on the second
         '''
-        msg.showinfo(title="About QuadEQPlot" , message="Created by = Adarsh Sarala Nagaraja \n ID : 1014060")
+        msg.showinfo(title="About QuadEQPlot" , message="Created by = Nitish Makam Prashanth \n ID : 1005189")
 
 q = QuadEQPlot()
